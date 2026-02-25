@@ -32,7 +32,7 @@ Open To Any and All Developer Collaborations
 ## 📫 Connect with Me
 Reach Out To Me On
 
-* TwitterX [Your Link]
+* TwitterX [[X](https://x.com/DevTech_Coder23)]
 * Instagram [Your Link]
 * Portfolio [In The Works 🚧]
 
