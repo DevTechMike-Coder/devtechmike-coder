@@ -20,3 +20,21 @@ OS
 
 * Kali Linux
 * Windows
+
+## 📊 Professional Focus
+
+* Full-Stack web Developements with secure authentication
+* Identifying misconfigurations and logic flaws in pentesting
+
+## 🤝 Open To Collaborations
+Open To Any and All Developer Collaborations
+
+## 📫 Connect with Me
+Reach Out To Me On
+
+* TwitterX [Your Link]
+* Instagram [Your Link]
+* Portfolio [In The Works 🚧]
+
+## 🧩 Philosophy
+`"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts." — Gene Spafford`
