@@ -34,7 +34,7 @@ Reach Out To Me On
 
 * TwitterX [[ DevTechCoder ](https://x.com/DevTech_Coder23)]
 * Instagram [Your Link]
-* Portfolio [In The Works 🚧]
+* Portfolio [[Micah's Portfolio](micahkesiena.vercel.app)]
 
 ## 🧩 Philosophy
 `The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts." — Gene Spafford`
