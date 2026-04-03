@@ -6,20 +6,10 @@ I want to be the bridge between robust software development and offensive securi
 ## 🛠️ Technical Arsenal
 Languages & Tools
 
-* JavaScript / TypeScript
-* Node.js
-* MongoDB/PostgreSql
-* WireShark
-
-Frontend
-
-* HTML, CSS(Tailwind)
-* React.js
-
-OS
-
-* Kali Linux
-* Windows
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ## 📊 Professional Focus
 
