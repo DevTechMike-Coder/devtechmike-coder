@@ -1,10 +1,18 @@
-## Hi there 👋, I'm Kesiena Micah Irikefe
+# Hi there 👋, I'm Kesiena Micah Irikefe
 
-## 💻 Software Developer | 🛡️ Learning Ethical Hacking
-I want to be the bridge between robust software development and offensive security. My approach is simple: to build better systems, you have to know exactly how to break them. I specialize in developing secure applications while performing deep-dive vulnerability assessments and penetration tests.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=DevTechMike-Coder&label=Profile%20views&color=0e76a8&style=flat" alt="DevTechMike-Coder" />
+</p>
+
+## 💻 Software Developer | 🛡️ Cyber Security Specialist
+> **"To build better systems, you have to know exactly how to break them."** 
+> I aim to be the bridge between robust full-stack development and offensive security, combining secure coding practices with deep-dive vulnerability assessments and penetration testing.
+
+---
 
 ## 🛠️ Technical Arsenal
-### 💻 Full-Stack Development
+
+### 🌐 Full-Stack Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -22,35 +30,35 @@ I want to be the bridge between robust software development and offensive securi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🛠️ Tools & Environment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
-
+---
 
 ## 📊 Professional Focus
 
-* Full-Stack web Developements with secure authentication
-* Identifying misconfigurations and logic flaws in pentesting
+* 🔒 **Secure Architecture:** Building Full-Stack web applications integrated with hardened authentication and robust data protection.
+* 🔍 **Pentesting & Auditing:** Actively identifying architectural misconfigurations, logic flaws, and software vulnerabilities.
 
-## 🤝 Open To Collaborations
-Open To Any and All Developer Collaborations
+## 🤝 Open to Collaborations
+I'm always looking to team up on open-source projects, security research, or full-stack development ventures. If you've got an interesting project, let's build (or break) something together!
 
 ## 📫 Connect with Me
-Reach Out To Me On
+Let's talk tech, code, or security:
 
-* TwitterX [[ DevTechCoder ](https://x.com/DevTech_Coder23)]
-* Instagram [Your Link]
-* Portfolio [[Micah](https://micahkesiena.vercel.app/)]
+[![X/Twitter](https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DevTech_Coder23)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devmikefullstack)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://micahkesiena.vercel.app)
+
+---
 
 ## 🧩 Philosophy
-`The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts." — Gene Spafford`
-`Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Mark Fowler`
+
+> *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts."*  
+> — **Gene Spafford**
+
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
+> — **Martin Fowler**
