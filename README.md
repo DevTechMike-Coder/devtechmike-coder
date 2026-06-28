@@ -5,8 +5,7 @@
 </p>
 
 ## 💻 Software Developer | 🛡️ Cyber Security Specialist
-> **"To build better systems, you have to know exactly how to break them."** 
-> I aim to be the bridge between robust full-stack development and offensive security, combining secure coding practices with deep-dive vulnerability assessments and penetration testing.
+> **"To build better systems, you have to know exactly how to break them."** > I aim to be the bridge between robust full-stack development and offensive security, combining secure coding practices with deep-dive vulnerability assessments and penetration testing.
 
 ---
 
@@ -33,8 +32,23 @@
 ### 🗄️ Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis Cloud](https://img.shields.io/badge/Redis_Cloud-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevTechMike-Coder&show_icons=true&theme=react&hide_border=true&bg_color=0d1117" alt="Mike's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevTechMike-Coder&theme=react&hide_border=true&background=0d1117" alt="Mike's GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevTechMike-Coder&theme=react&bg_color=0d1117&hide_border=true" alt="Mike's Contribution Graph" width="96%" />
+</p>
 
 ---
 
@@ -57,8 +71,8 @@ Let's talk tech, code, or security:
 
 ## 🧩 Philosophy
 
-> *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts."*  
+> *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts."*
 > — **Gene Spafford**
 
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
 > — **Martin Fowler**
