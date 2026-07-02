@@ -42,7 +42,7 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevTechMike-Coder&show_icons=true&theme=react&hide_border=true&bg_color=0d1117" alt="Mike's GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=DevTechMike-Coder&show_icons=true&theme=react&hide_border=true&bg_color=0d1117" alt="Mike's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevTechMike-Coder&theme=react&hide_border=true&background=0d1117" alt="Mike's GitHub Streak" width="48%" />
 </p>
 
@@ -56,6 +56,20 @@
 
 * 🔒 **Secure Architecture:** Building Full-Stack web applications integrated with hardened authentication and robust data protection.
 * 🔍 **Pentesting & Auditing:** Actively identifying architectural misconfigurations, logic flaws, and software vulnerabilities.
+
+---
+
+## 🌱 Open Source Contributions
+
+<p align="center">
+  <a href="">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=DevTechMike-Coder&repo=YOUR-REPO-NAME&theme=react&hide_border=true&bg_color=0d1117" alt="" width="48%" />
+  </a>
+</p>
+
+- 🔧 **[PR Title]()** — description
+
+---
 
 ## 🤝 Open to Collaborations
 I'm always looking to team up on open-source projects, security research, or full-stack development ventures. If you've got an interesting project, let's build (or break) something together!
