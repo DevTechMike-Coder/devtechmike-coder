@@ -63,11 +63,11 @@
 ## 🚀 Featured Projects & Open Source
 
 <p align="center">
-  <a href="https://github.com/DevTechMike-Coder/Vertex-Canvas">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=DevTechMike-Coder&repo=Vertex-Canvas&theme=react&hide_border=true&bg_color=0d1117" alt="Vertex Canvas Workspace" width="48%" />
+  <a href="https://github.com/DevTechMike-Coder/vertex-canvas">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=DevTechMike-Coder&repo=vertex-canvas&theme=react&hide_border=true&bg_color=0d1117" alt="Vertex Canvas Workspace" width="48%" />
   </a>
-  <a href="https://github.com/DevTechMike-Coder/VulnTrack">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=DevTechMike-Coder&repo=VulnTrack&theme=react&hide_border=true&bg_color=0d1117" alt="VulnTrack Metrics Portfolio" width="48%" />
+  <a href="https://github.com/DevTechMike-Coder/vulntrack">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=DevTechMike-Coder&repo=vulntrack&theme=react&hide_border=true&bg_color=0d1117" alt="VulnTrack Metrics Portfolio" width="48%" />
   </a>
 </p>
 
