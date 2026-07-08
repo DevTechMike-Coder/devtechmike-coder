@@ -5,7 +5,7 @@
 </p>
 
 ## 💻 Software Developer | 🛡️ Cyber Security Specialist
-> **"To build better systems, you have to know exactly how to break them."** 
+> **"To build better systems, you have to know exactly how to break them."**
 > I aim to be the bridge between robust full-stack development and offensive security, combining secure coding practices with deep-dive vulnerability assessments and penetration testing.
 
 ---
@@ -60,16 +60,15 @@
 
 ---
 
-## 🚀 Featured Projects & Open Source
+## 🚀 Featured Projects & Ecosystems
 
-<p align="center">
-  <a href="https://github.com/DevTechMike-Coder/vertex-canvas">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=DevTechMike-Coder&repo=vertex-canvas&theme=react&hide_border=true&bg_color=0d1117" alt="Vertex Canvas Workspace" width="48%" />
-  </a>
-  <a href="https://github.com/DevTechMike-Coder/vulntrack">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=DevTechMike-Coder&repo=vulntrack&theme=react&hide_border=true&bg_color=0d1117" alt="VulnTrack Metrics Portfolio" width="48%" />
-  </a>
-</p>
+#### 📂 [Vertex Canvas](https://github.com/DevTechMike-Coder/vertex-canvas)
+> Next.js-driven dynamic workspace environment managing project timelines, tasks, and team contribution flows.
+🚀 `Next.js` &nbsp; 🗄️ `PostgreSQL` &nbsp; 🧩 `Prisma` &nbsp; ⚡ `Supabase`
+
+#### 🛡️ [VulnTrack](https://github.com/DevTechMike-Coder/vulntrack)
+> High-performance vulnerability monitoring dashboard utilizing 3D motion graphs to analyze threat intelligence frameworks.
+🎨 `React` &nbsp; 🎬 `Framer Motion` &nbsp; 🎨 `TailwindCSS`
 
 ---
 
