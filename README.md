@@ -5,7 +5,8 @@
 </p>
 
 ## 💻 Software Developer | 🛡️ Cyber Security Specialist
-> **"To build better systems, you have to know exactly how to break them."** > I aim to be the bridge between robust full-stack development and offensive security, combining secure coding practices with deep-dive vulnerability assessments and penetration testing.
+> **"To build better systems, you have to know exactly how to break them."** 
+> I aim to be the bridge between robust full-stack development and offensive security, combining secure coding practices with deep-dive vulnerability assessments and penetration testing.
 
 ---
 
@@ -43,7 +44,7 @@
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=DevTechMike-Coder&show_icons=true&theme=react&hide_border=true&bg_color=0d1117" alt="Mike's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevTechMike-Coder&theme=react&hide_border=true&background=0d1117" alt="Mike's GitHub Streak" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DevTechMike-Coder&layout=compact&theme=react&hide_border=true&bg_color=0d1117" alt="Mike's Top Languages" width="48%" />
 </p>
 
 <p align="center">
@@ -59,15 +60,16 @@
 
 ---
 
-## 🌱 Open Source Contributions
+## 🚀 Featured Projects & Open Source
 
 <p align="center">
-  <a href="">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=DevTechMike-Coder&repo=YOUR-REPO-NAME&theme=react&hide_border=true&bg_color=0d1117" alt="" width="48%" />
+  <a href="https://github.com/DevTechMike-Coder/Vertex-Canvas">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=DevTechMike-Coder&repo=Vertex-Canvas&theme=react&hide_border=true&bg_color=0d1117" alt="Vertex Canvas Workspace" width="48%" />
+  </a>
+  <a href="https://github.com/DevTechMike-Coder/VulnTrack">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=DevTechMike-Coder&repo=VulnTrack&theme=react&hide_border=true&bg_color=0d1117" alt="VulnTrack Metrics Portfolio" width="48%" />
   </a>
 </p>
-
-- 🔧 **[PR Title]()** — description
 
 ---
 
