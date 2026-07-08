@@ -66,7 +66,7 @@
 > Next.js-driven dynamic workspace environment managing project timelines, tasks, and team contribution flows.
 🚀 `Next.js` &nbsp; 🗄️ `PostgreSQL` &nbsp; 🧩 `Prisma` &nbsp; ⚡ `Supabase`
 
-#### 🛡️ [VulnTrack Lite](https://github.com/DevTechMike-Coder/VulnTrack_Lite)
+#### 🛡️ [VulnTrack Lite](https://github.com/DevTechMike-Coder/VulnTrack-Lite)
 > High-performance vulnerability monitoring dashboard utilizing 3D motion graphs to analyze threat intelligence frameworks.
 🎨 `React` &nbsp; 🎬 `Framer Motion` &nbsp; 🎨 `TailwindCSS`
 
