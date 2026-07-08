@@ -62,11 +62,11 @@
 
 ## 🚀 Featured Projects & Ecosystems
 
-#### 📂 [Vertex Canvas](https://github.com/DevTechMike-Coder/vertex-canvas)
+#### 📂 [Vertex Canvas](https://github.com/DevTechMike-Coder/KanbanTool)
 > Next.js-driven dynamic workspace environment managing project timelines, tasks, and team contribution flows.
 🚀 `Next.js` &nbsp; 🗄️ `PostgreSQL` &nbsp; 🧩 `Prisma` &nbsp; ⚡ `Supabase`
 
-#### 🛡️ [VulnTrack](https://github.com/DevTechMike-Coder/vulntrack)
+#### 🛡️ [VulnTrack Lite](https://github.com/DevTechMike-Coder/VulnTrack_Lite)
 > High-performance vulnerability monitoring dashboard utilizing 3D motion graphs to analyze threat intelligence frameworks.
 🎨 `React` &nbsp; 🎬 `Framer Motion` &nbsp; 🎨 `TailwindCSS`
 
