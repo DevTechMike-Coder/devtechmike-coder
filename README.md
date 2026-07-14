@@ -1,55 +1,59 @@
 # Hi there 👋, I'm Kesiena Micah Irikefe
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=DevTechMike-Coder&label=Profile%20views&color=0e76a8&style=flat" alt="Profile views" />
-  <a href="https://x.com/DevTech_Coder23"><img src="https://img.shields.io/badge/follow-@DevTech__Coder23-000000?style=flat&logo=x" alt="Follow on X" /></a>
+  <img src="https://komarev.com/ghpvc/?username=DevTechMike-Coder&label=Profile%20views&color=0e76a8&style=flat-square" alt="Profile views" />
+  <a href="https://x.com/DevTech_Coder23"><img src="https://img.shields.io/badge/Follow-@DevTech__Coder23-000000?style=flat-square&logo=x&logoColor=white" alt="Follow on X" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-db4437?style=flat-square&logo=gmail&logoColor=white" alt="Email Me" /></a>
 </p>
 
 ### 💻 Software Developer | 🛡️ Cyber Security Specialist
 
-> **"To build better systems, you have to know exactly how to break them."**
-> 
-> I aim to be the bridge between robust full-stack development and offensive security — combining secure coding practices with deep-dive vulnerability assessments and penetration testing.
+> *"To build better systems, you have to know exactly how to break them."*
+
+I operate at the intersection of robust full-stack development and offensive security. My mission is to design and ship secure, high-performance applications while applying deep-dive vulnerability assessments and penetration testing to harden architectures against real-world threats.
+
+> [!NOTE]
+> **AI-Native Workflow ("Vibe Coding")**  
+> I actively leverage cutting-edge AI-assisted workflows—rapidly prototyping and shipping features using tools like **Antigravity CLI**, **Claude**, and **Google AI Studio** to maximize development velocity without compromising on code quality or architecture.
 
 ---
 
 ## 🛠️ Technical Arsenal
 
 ### 🌐 Full-Stack Development
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🛡️ Cybersecurity & Networking
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4B275F?style=flat&logo=nmap&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat&logo=openssl&logoColor=white)
+![](https://img.shields.io/badge/Penetration_Testing-red?style=for-the-badge&logo=kalilinux&logoColor=white)
+![](https://img.shields.io/badge/Vulnerability_Assessment-0052CC?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![](https://img.shields.io/badge/Asymmetric_Cryptography-000?style=for-the-badge&logo=lock&logoColor=white)
+![](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![](https://img.shields.io/badge/Linux_SysAdmin-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🚀 Languages & Scripting
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🗄️ Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### 🤖 AI-Assisted Development
+![](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![](https://img.shields.io/badge/Antigravity_CLI-111?style=for-the-badge&logo=terminal&logoColor=white)
 
 ---
 
 ## 📊 Professional Focus
 
-* 🔒 **Secure Architecture** — Building full-stack web applications integrated with hardened authentication (signed HMAC session cookies, IDOR-safe file handling) and robust data protection.
-* 🔍 **Pentesting & Auditing** — Actively identifying architectural misconfigurations, logic flaws, and software vulnerabilities.
+*   🔒 **Secure Architecture** — Engineering applications integrated with hardened authentication mechanisms (such as signed HMAC session cookies and IDOR-safe file handling structures).
+*   🔍 **Pentesting & Auditing** — Proactively identifying, documentating, and mitigating critical logic flaws, architectural misconfigurations, and software vulnerabilities.
+*   ⚡ **AI-Native Engineering** — Integrating advanced AI tooling into my daily pipeline to supercharge prototyping while maintaining rigorous manual code reviews for security compliance.
 
 ---
 
@@ -57,8 +61,8 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 📂 [**Vertex Canvas**](https://github.com/DevTechMike-Coder/KanbanTool) | Next.js-driven dynamic kanban environment managing project timelines, tasks, and team contribution flows in real time. | `Next.js` `PostgreSQL` `Prisma` `Supabase` |
-| 🛡️ [**VulnTrack Lite**](https://github.com/DevTechMike-Coder/VulnTrack-Lite) | High-performance vulnerability monitoring dashboard with 3D motion graphs for visualizing threat intelligence frameworks. | `React` `Framer Motion` `Tailwind CSS` |
+| **📂 Vertex Canvas** | Next.js-driven dynamic kanban environment managing project timelines, tasks, and team contribution flows in real time. | `Next.js` `PostgreSQL` `Prisma` `Supabase` |
+| **🛡️ VulnTrack Lite** | High-performance vulnerability monitoring dashboard with 3D motion graphs for visualizing threat intelligence frameworks. | `React` `Framer Motion` `Tailwind CSS` |
 
 ---
 
@@ -77,20 +81,17 @@
 
 ## 🤝 Open to Collaborations
 
-I'm always looking to team up on open-source projects, security research, or full-stack development ventures. If you've got an interesting project, let's build (or break) something together!
+I'm always on the lookout for exciting open-source projects, novel security research initiatives, or high-performance full-stack applications. If you've got an ambitious project, let's connect and build (or break) something spectacular.
 
-## 📫 Connect with Me
-
-[![X/Twitter](https://img.shields.io/badge/X_Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/DevTech_Coder23)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/devmikefullstack)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://micahkesiena.vercel.app)
+*   💬 **Let's Talk About:** Secure-by-design architecture, web app pentesting, and the future of AI-driven development.
+*   📫 **How to Reach Me:** Drop a line on [X (formerly Twitter)](https://x.com/DevTech_Coder23) or shoot over an email.
 
 ---
 
 ## 🧩 Philosophy
 
-> *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards — and even then I have my doubts."*
+> *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards — and even then I have my doubts."*  
 > — **Gene Spafford**
 
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
 > — **Martin Fowler**
