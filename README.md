@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=DevTechMike-Coder&label=Profile%20views&color=0e76a8&style=flat-square" alt="Profile views" />
   <a href="https://x.com/DevTech_Coder23"><img src="https://img.shields.io/badge/Follow-@DevTech__Coder23-000000?style=flat-square&logo=x&logoColor=white" alt="Follow on X" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-db4437?style=flat-square&logo=gmail&logoColor=white" alt="Email Me" /></a>
+  <a href="mailto:micahkesiena@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-db4437?style=flat-square&logo=gmail&logoColor=white" alt="Email Me" /></a>
 </p>
 
 ### 💻 Software Developer | 🛡️ Cyber Security Specialist
