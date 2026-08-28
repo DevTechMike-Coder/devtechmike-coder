@@ -37,7 +37,9 @@ A lightweight vulnerability-management dashboard for tracking and analyzing appl
 ## Stack
 
 **Full-Stack:** `Next.js` `React` `TypeScript` `Node.js` `Tailwind CSS` `Prisma` `PostgreSQL` `Supabase`
+
 **Security:** `Penetration Testing` `Vulnerability Assessment` `Authentication/Authorization` `Cryptography` `Wireshark`
+
 **Languages:** `TypeScript` `JavaScript` `Python` `Bash`
 
 ---
