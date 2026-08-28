@@ -18,6 +18,15 @@ I operate at the intersection of robust full-stack development and offensive sec
 
 ---
 
+## 🌐 What I Build
+
+* **Secure Full-Stack Web Applications:** End-to-end applications built with security-by-design principles[cite: 1].
+* **Project Management Workspaces:** High-throughput collaboration platforms with real-time state synchronization[cite: 1].
+* **Security & Vulnerability Tooling:** Dashboards and systems for tracking CVE metrics and analyzing attack surfaces[cite: 1].
+* **Authentication & Authorization Systems:** Hardened session integrity, zero-trust resource boundaries, and OAuth integrations[cite: 1].
+
+---
+
 ## 🛠️ Technical Arsenal
 
 ### 🌐 Full-Stack Development
@@ -49,20 +58,39 @@ I operate at the intersection of robust full-stack development and offensive sec
 
 ---
 
-## 📊 Professional Focus
+## 🚀 Featured Projects
 
-*   🔒 **Secure Architecture** — Engineering applications integrated with hardened authentication mechanisms (such as signed HMAC session cookies and IDOR-safe file handling structures).
-*   🔍 **Pentesting & Auditing** — Proactively identifying, documentating, and mitigating critical logic flaws, architectural misconfigurations, and software vulnerabilities.
-*   ⚡ **AI-Native Engineering** — Integrating advanced AI tooling into my daily pipeline to supercharge prototyping while maintaining rigorous manual code reviews for security compliance.
+### 📂 Vertex Canvas
+*A full-stack project management workspace for engineering teams featuring Kanban boards, real-time collaboration, and security-focused architecture[cite: 1].*
+
+* **Security & Architectural Engineering:**
+  * Session integrity featuring HMAC-SHA256 signed session cookies and OAuth with PKCE[cite: 1].
+  * Server-side authorization checks preventing IDOR and validating project membership boundaries[cite: 1].
+  * Hardened file-upload pipeline with magic-byte validation and strict MIME type enforcement[cite: 1].
+  * Security headers, CSP, rate limiting, and task dependency cycle detection[cite: 1].
+* **Stack:** `Next.js` `TypeScript` `React` `PostgreSQL` `Prisma` `Supabase` `Tailwind CSS`
 
 ---
 
-## 🚀 Featured Projects
+### 🛡️ VulnTrack Lite
+*A lightweight vulnerability-management dashboard designed for security engineers to track and analyze application vulnerabilities[cite: 1].*
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **📂 Vertex Canvas** | Next.js-driven dynamic kanban environment managing project timelines, tasks, and team contribution flows in real time. | `Next.js` `PostgreSQL` `Prisma` `Supabase` |
-| **🛡️ VulnTrack Lite** | High-performance vulnerability monitoring dashboard with 3D motion graphs for visualizing threat intelligence frameworks. | `React` `Framer Motion` `Tailwind CSS` |
+* **Security & Architectural Engineering:**
+  * Automated CVE tracking, severity classification, and dynamic security risk metrics[cite: 1].
+  * Secure manual vulnerability entry with input validation and sanitization[cite: 1].
+  * Automated integration testing paired with lightweight persistence[cite: 1].
+* **Stack:** `Python` `FastAPI` `SQLite` `JavaScript` `HTML` `Tailwind CSS`[cite: 1]
+
+---
+
+## 🔒 Security Engineering Focus
+
+Security is engineered directly into my development pipeline rather than tacked on at the end[cite: 1]:
+
+* **Authentication:** Secure session design, HMAC integrity, OAuth/PKCE, and hardened cookies[cite: 1].
+* **Authorization:** Server-side validation checks, resource ownership protection, and IDOR prevention[cite: 1].
+* **Application Security:** Input validation, magic-byte upload controls, CSP/Security Headers, and rate limiting[cite: 1].
+* **Testing & Auditing:** Web application pentesting, logic-flaw analysis, and network traffic auditing via Wireshark[cite: 1].
 
 ---
 
@@ -79,19 +107,12 @@ I operate at the intersection of robust full-stack development and offensive sec
 
 ---
 
-## 🤝 Open to Collaborations
-
-I'm always on the lookout for exciting open-source projects, novel security research initiatives, or high-performance full-stack applications. If you've got an ambitious project, let's connect and build (or break) something spectacular.
-
-*   💬 **Let's Talk About:** Secure-by-design architecture, web app pentesting, and the future of AI-driven development.
-*   📫 **How to Reach Me:** Drop a line on [X (formerly Twitter)](https://x.com/DevTech_Coder23) or shoot over an email.
-
----
-
-## 🧩 Philosophy
-
-> *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards — and even then I have my doubts."*  
-> — **Gene Spafford**
+## 🤝 Philosophy & Connect
 
 > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
 > — **Martin Fowler**
+
+> *"The goal isn't simply to write code that works. The goal is to understand why it works, where it can fail, and how to make it resilient."*[cite: 1]
+
+* 💬 **Let's Talk About:** Secure-by-design architecture, web app pentesting, and AI-native engineering[cite: 1].
+* 📫 **How to Reach Me:** Reach out on [X (formerly Twitter)](https://x.com/DevTech_Coder23) or send an email to [micahkesiena@gmail.com](mailto:micahkesiena@gmail.com).
