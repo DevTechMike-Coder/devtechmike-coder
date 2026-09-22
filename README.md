@@ -34,6 +34,18 @@ A lightweight vulnerability-management dashboard for tracking and analyzing appl
 
 ---
 
+## Client Work
+
+### 🧶 E&A Atelier
+
+A full storefront site for a luxury artisanal crochet brand — product catalog with category browsing, individual product pages, and a cart, built with a focus on a polished, editorial front-end experience.
+
+**Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS`
+
+→ [Live site](https://eaatelier.vercel.app/) · [github.com/DevTechMike-Coder/E-A_Atelier](https://github.com/DevTechMike-Coder/E-A_Atelier)
+
+---
+
 ## Stack
 
 **Full-Stack:** `Next.js` `React` `TypeScript` `Node.js` `Tailwind CSS` `Prisma` `PostgreSQL` `Supabase`
