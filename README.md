@@ -40,14 +40,14 @@ Real-time kanban workspace with notifications, team management, and file storage
 
 | Control | Implementation | Evidence |
 |---|---|---|
-| Authentication | OAuth 2.0 + PKCE | [`path/to/oauth`](https://github.com/DevTechMike-Coder/KanbanTool) <!-- TODO --> |
-| Sessions | HMAC-SHA256 signed cookies. Rationale, rotation, expiry and revocation documented in the threat model | [`path/to/session`](https://github.com/DevTechMike-Coder/KanbanTool) <!-- TODO --> |
-| Authorization (IDOR/BOLA) | Server-side ownership/membership check wrapper on every server action | [`path/to/authz`](https://github.com/DevTechMike-Coder/KanbanTool) <!-- TODO --> · authz regression tests <!-- TODO link --> |
-| File uploads | Magic-byte validation, type/size allowlist | [`path/to/validator`](https://github.com/DevTechMike-Coder/KanbanTool) <!-- TODO --> |
-| Rate limiting | Distributed, backed by <!-- TODO: Upstash Redis / other --> | [`path/to/ratelimit`](https://github.com/DevTechMike-Coder/KanbanTool) <!-- TODO --> |
-| CSP | Dynamic per-request nonce via middleware | [`middleware.ts`](https://github.com/DevTechMike-Coder/KanbanTool) <!-- TODO --> |
+| Authentication | Supabase Auth; Google/GitHub via OAuth 2.0 + PKCE (S256) | [`lib/auth/oauth.ts`](https://github.com/DevTechMike-Coder/KanbanTool/blob/main/lib/auth/oauth.ts) |
+| Sessions | HMAC-SHA256 signed cookies, Edge-verifiable. Expiry/revocation limits documented in the threat model | [`lib/auth/session.ts`](https://github.com/DevTechMike-Coder/KanbanTool/blob/main/lib/auth/session.ts) |
+| Authorization (IDOR/BOLA) | Resource → project → team membership check on every task/project server action | [`app/actions/tasks.ts`](https://github.com/DevTechMike-Coder/KanbanTool/blob/main/app/actions/tasks.ts) · authz regression tests <!-- TODO link --> |
+| File uploads | Extension allowlist, magic-byte validation, 20 MB cap, per-user object path | [`app/api/upload/route.ts`](https://github.com/DevTechMike-Coder/KanbanTool/blob/main/app/api/upload/route.ts) |
+| Rate limiting | Redis (`ioredis`) → PostgreSQL atomic upsert → in-memory fallback, per-IP on auth actions | [`lib/auth/rate-limit.ts`](https://github.com/DevTechMike-Coder/KanbanTool/blob/main/lib/auth/rate-limit.ts) |
+| Security headers | HSTS, `X-Frame-Options: DENY`, `nosniff`, Referrer-Policy, CSP (nonce-based CSP on the roadmap) | [`next.config.ts`](https://github.com/DevTechMike-Coder/KanbanTool/blob/main/next.config.ts) |
 
-`nextjs` `typescript` `prisma` `postgresql` `supabase` `tailwindcss` `rbac`
+`nextjs` `typescript` `prisma` `postgresql` `supabase` `tailwindcss` `oauth-pkce` `idor-protection`
 
 ---
 
@@ -59,8 +59,8 @@ Vulnerability management and analysis engine: track, filter, and score findings 
 
 [![CodeQL](https://github.com/DevTechMike-Coder/VulnTrack-Lite/actions/workflows/codeql.yml/badge.svg)](https://github.com/DevTechMike-Coder/VulnTrack-Lite/actions/workflows/codeql.yml)
 
-- CVSS <!-- TODO: v3.1 / v4.0 --> scoring <!-- TODO: computed from vector strings / severity bucketing -->
-- Multi-attribute search with parameterized queries and sanitized inputs
+- CVSS score (0.0–10.0) and severity stored per CVE; severity is currently entered, not derived from the score
+- Pydantic-validated API, parameterized SQLite queries, HTML-escaped rendering. Local single-user tool: see the threat model before exposing it
 - Modular SQLite layer
 - **Roadmap:** NVD ingestion, CISA KEV flagging, EPSS-based prioritization <!-- move to "Shipped" as implemented -->
 
