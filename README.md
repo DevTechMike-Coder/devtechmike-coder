@@ -31,7 +31,7 @@ Real-time kanban workspace with notifications, team management, and file storage
 
 <!-- TODO: add screenshot/GIF + live demo link -->
 <!-- ![Vertex Canvas](./docs/vertex-demo.gif) -->
-[Live demo](#) · [Threat model](https://github.com/DevTechMike-Coder/KanbanTool/blob/main/docs/threat-model.md) · [SECURITY.md](https://github.com/DevTechMike-Coder/KanbanTool/blob/main/SECURITY.md)
+[Live demo](https://vertexcanvas.vercel.app/) · [Threat model](https://github.com/DevTechMike-Coder/KanbanTool/blob/main/docs/threat-model.md) · [SECURITY.md](https://github.com/DevTechMike-Coder/KanbanTool/blob/main/SECURITY.md)
 
 [![CodeQL](https://github.com/DevTechMike-Coder/KanbanTool/actions/workflows/codeql.yml/badge.svg)](https://github.com/DevTechMike-Coder/KanbanTool/actions/workflows/codeql.yml)
 [![CI](https://github.com/DevTechMike-Coder/KanbanTool/actions/workflows/ci.yml/badge.svg)](https://github.com/DevTechMike-Coder/KanbanTool/actions/workflows/ci.yml)
@@ -116,7 +116,7 @@ Dynamic catalog, responsive cart, editorial layout.
 <!-- TODO: update monthly -->
 - **Building:** 
 - **Researching:** 
-- **Learning:** 
+- **Learning: Docker Desktop** 
 
 ---
 
