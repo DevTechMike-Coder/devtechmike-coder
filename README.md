@@ -114,8 +114,8 @@ Dynamic catalog, responsive cart, editorial layout.
 ## Currently
 
 <!-- TODO: update monthly -->
-- **Building:** 
-- **Researching:** 
+- **Building: Clone[ An Instagram/Twitter Style Clone]** 
+- **Researching: COMPTIA A** 
 - **Learning: Docker Desktop** 
 
 ---
